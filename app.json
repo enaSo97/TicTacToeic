@@ -1,0 +1,17 @@
+{
+  "name": "tictactoeic",
+  "displayName": "tictactoeic",
+  "expo": {
+    "name": "tictactoeic",
+    "slug": "tictactoeic",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
