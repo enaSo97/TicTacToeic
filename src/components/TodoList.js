@@ -19,7 +19,7 @@ const TodoList = ({ todos }) => (
 
 const mapStateToProps = state => {
     const { visibilityFilter } = state;
-    console.log("current filter = ??" + visibilityFilter);
+    //console.log("current filter = " + visibilityFilter);
     const todos = getTodosByVisibilityFilter(state, visibilityFilter);
     console.log("todo object parameter = " + JSON.stringify(todos));
     return { todos };

@@ -1,7 +1,7 @@
-import { ADD_TODO, TOGGLE_TODO, SET_FILTER, SUBMIT_ANSWER, SET_LANGUAGE } from './actionTypes'
+import { ADD_TODO, TOGGLE_TODO, SET_FILTER, SUBMIT_ANSWER, SET_LANGUAGE, SET_QUESTION } from './actionTypes'
 
 let nextTodoId = 0
-
+let nextVocabId = 0;
 export const addTodo = content => ({
     type: ADD_TODO,
     payload: {
@@ -29,11 +29,13 @@ export const submitAnswer = answer => ({
     }
 })
 
-export const setQuestion = question => ({
+export const setQuestion = vocabId => ({
     type : SET_QUESTION,
     payload : {
-        question
+        vocabId: vocabId,
+        correct : false
     }
+    
 })
 
 export const setLanguage = language => ({

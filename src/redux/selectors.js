@@ -1,4 +1,8 @@
 import { VISIBILITY_FILTERS } from "../constants"
+import { LANGUAGES } from "../constants"
+
+
+// export const getCurrentVocab = store => store
 
 // getting todos object from the store
 export const getTodoState = store => store.todos;
