@@ -1,12 +1,14 @@
 import {SET_LANGUAGE} from "../actionTypes"
 import {LANGUAGES} from "../../constants.js"
 
-const initial_state = LANGUAGES.KOR;
 
-const languageOption = ( state = initial_state, action ) => {
+const languageOption = ( state = null, action ) => {
     switch (action.type) {
         case SET_LANGUAGE :
-            return action.payload.language;
+            return {
+                ...state,
+                lang : action.lang
+            };
         default : {
             return state;
         }

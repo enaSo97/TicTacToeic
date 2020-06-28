@@ -1,11 +1,19 @@
 import React from "react";
 import { connect } from "react-redux";
-import { Navbar, Nav, Form, Button, Card } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import { setQuestion } from "../redux/actions"
+import { getVocabById } from "../database/database"
 import store from "../redux/store"
 
+var currentVocab;
+
 const questionCard = (props) => {
-    store.dispatch({type: "SET_QUESTION", vocabId: 12});
+    store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
+    store.dispatch({type: "SET_QUESTION", vocabId: 0, correct:false});
+    getVocabById(0, (vocabObj) => {
+        //currentVocab = vocabObj;
+        console.log("curr vocab : " + JSON.stringify(vocabObj));
+    });
     return (
         <div className="mt-5">
         <Card style={{ width: '50rem'}} className="mb-3 mx-auto">

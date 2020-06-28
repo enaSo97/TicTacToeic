@@ -1,5 +1,5 @@
 import { database } from "./firebaseConfig";
-import store from "../redux/reducers/store";
+//import store from "../redux/reducers/store";
 
 export function getDatabaseObj(object, callback){
     let ref = database().ref(object);
@@ -9,8 +9,12 @@ export function getDatabaseObj(object, callback){
 }
 
 export function getVocabById(id, callback){
-    var ref = database().ref('vocabulary').orderByChild("id").equalTo(id);
+    //console.log(database);
+    let vocab;
+    let ref = database().ref('/voabulary/'+id);
     ref.once("value").then((snapshot) => {
-        callback(snapshot.val());
+        //console.log("database : " + JSON.stringify(snapshot.val()));
+        //vocab = snapshot.val();
+        callback(snapshot.val())
     })
 }

@@ -10,9 +10,17 @@ export function getVocabDB(){
 
 export function loadVocab(id){
     getVocabById(id, (vocab) => {
+        if (store.)
         store.dispatch({
-            vocab : vocab.id,
-            correct : false
+            type: "SET_QUESTION",
+            vocab: vocab.map(())
         })
     })
 }
+
+const mapStateToProp = state => {
+    //console.log("current state" + JSON.stringify(state.visibilityFilter));
+    return { lang : state.lang };
+}
+
+export default connect(mapStateToProp, id)(loadVocab)

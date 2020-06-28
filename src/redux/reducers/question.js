@@ -1,10 +1,10 @@
 import { SET_QUESTION } from "../actionTypes";
 
 const initialState = {
-    vocab : 0,
+    vocabId : 0,
     correct : false
 }
-
+//
 export default function (state=initialState, action) {
 
     switch (action.type) {
@@ -13,7 +13,7 @@ export default function (state=initialState, action) {
             console.log("action " + JSON.stringify(action));
             return {
                 ...state,
-                vocab : vocabId,
+                vocabId : vocabId,
                 correct : correct
             };
         default:

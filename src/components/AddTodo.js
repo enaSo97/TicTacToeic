@@ -14,7 +14,7 @@ class AddTodo extends React.Component {
     handleAddTodo = () => {
         // dispatches actions to app todo
         this.props.addTodo(this.state.input)
-        this.props.setQuestion(0)
+        //this.props.setQuestion(0)
         //console.log(this.state.input)
         // sets state back to empty string
         this.setState({ input: "" })
