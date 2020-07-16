@@ -29,10 +29,10 @@ export const submitAnswer = answer => ({
     }
 })
 
-export const setQuestion = vocabId => ({
+export const setVocabQuestion = object => ({
     type : SET_QUESTION,
     payload : {
-        vocabId: vocabId,
+        word: object.word,
         correct : false
     }
     

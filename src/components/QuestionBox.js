@@ -1,17 +1,22 @@
 import React from "react";
 import { connect } from "react-redux";
 import { Card } from "react-bootstrap";
-import { setQuestion } from "../redux/actions"
+import { loadVocab } from "../redux/util";
 import { getVocabById } from "../database/database"
 import store from "../redux/store"
 
 var currentVocab;
 
-const questionCard = (props) => {
+const questionCard = ({setVocabQuestion}) => {
     store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
-    store.dispatch({type: "SET_QUESTION", vocabId: 0, correct:false});
+    //store.dispatch({type: "SET_QUESTION", vocabId: 0, correct:false});
+    let qeustionState = setVocabQuestion(0)
+    const curr_state = store.getState();
+    //console.log(qeustionState);
+    //console.log("wawawa");
     getVocabById(0, (vocabObj) => {
         //currentVocab = vocabObj;
+
         console.log("curr vocab : " + JSON.stringify(vocabObj));
     });
     return (
@@ -25,7 +30,7 @@ const questionCard = (props) => {
             the card's content.
             </Card.Text>
             <Card.Link href="#">Card Link</Card.Link>
-            <Card.Link href="#">Another Link</Card.Link>
+            <Card.Link href="#">AntoggleTodoother Link</Card.Link>
             </Card.Body>
         </Card>
         </div>

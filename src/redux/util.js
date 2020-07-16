@@ -1,26 +1,32 @@
 import store from "./reducers/store"
 import {vocabDB} from "../../objects"
 import { getDatabaseObj, getVocabById } from "../database/database"
+import {LANGUAGES} from "../../constants.js"
 
+var questionID = 0;
 export function getVocabDB(){
     let vocab = {}
     getDatabaseObj('vocabulary', vocab)
     return vocab;
 }
 
-export function loadVocab(id){
+export function setLangID(langState){
+    if (langState == LANGUAGES.KOR){
+        return 0;
+    }
+    else if (langState == LANGUAGES.ENG){
+        return 1;
+    }
+}
+
+export function loadVocab(langState, id){
+    var langId = setLangID(langState);
     getVocabById(id, (vocab) => {
-        if (store.)
         store.dispatch({
             type: "SET_QUESTION",
-            vocab: vocab.map(())
+            word: vocab.word,
+            question: vocab.questions[questionID++],
+            answer: vocab.definition[langId],
         })
     })
 }
-
-const mapStateToProp = state => {
-    //console.log("current state" + JSON.stringify(state.visibilityFilter));
-    return { lang : state.lang };
-}
-
-export default connect(mapStateToProp, id)(loadVocab)

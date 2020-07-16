@@ -9,11 +9,11 @@ export default function (state=initialState, action) {
 
     switch (action.type) {
         case SET_QUESTION:
-            const { vocabId, correct } = action;
+            const { word, correct } = action;
             console.log("action " + JSON.stringify(action));
             return {
                 ...state,
-                vocabId : vocabId,
+                word : word,
                 correct : correct
             };
         default:
