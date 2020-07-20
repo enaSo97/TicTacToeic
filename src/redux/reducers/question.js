@@ -5,11 +5,17 @@ const initialState = {
     correct : false
 }
 //
-export default function (state=initialState, action) {
-
+export default function (state="", action) {
+    let newState;
     switch (action.type) {
         case SET_QUESTION:
-            console.log("action " + JSON.stringify(action));
+            newState = {
+                "lang" : action.lang,
+                "word" : action.word,
+                "question" : action.question 
+            }
+            console.log("new state =  " + JSON.stringify(newState));
+            return newState;
         default:
             return state;
     }
