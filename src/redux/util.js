@@ -1,7 +1,7 @@
-import store from "./reducers/store"
-import {vocabDB} from "../../objects"
+import store from "./store"
+//import {vocabDB} from "../../objects"
 import { getDatabaseObj, getVocabById } from "../database/database"
-import {LANGUAGES} from "../../constants.js"
+import {LANGUAGES} from "../constants.js"
 
 var questionID = 0;
 export function getVocabDB(){
@@ -11,10 +11,10 @@ export function getVocabDB(){
 }
 
 export function setLangID(langState){
-    if (langState == LANGUAGES.KOR){
+    if (langState === LANGUAGES.KOR){
         return 0;
     }
-    else if (langState == LANGUAGES.ENG){
+    else if (langState === LANGUAGES.ENG){
         return 1;
     }
 }
@@ -29,4 +29,5 @@ export function loadVocab(langState, id){
             answer: vocab.definition[langId],
         })
     })
+    
 }

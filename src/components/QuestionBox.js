@@ -1,29 +1,20 @@
 import React from "react";
 import { connect } from "react-redux";
 import { Card } from "react-bootstrap";
-import { loadVocab } from "../redux/util";
-import { getVocabById } from "../database/database"
 import store from "../redux/store"
+import { loadVocab } from "../redux/util"
 
 var currentVocab;
 
-const questionCard = ({setVocabQuestion}) => {
-    store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
-    //store.dispatch({type: "SET_QUESTION", vocabId: 0, correct:false});
-    let qeustionState = setVocabQuestion(0)
-    const curr_state = store.getState();
-    //console.log(qeustionState);
-    //console.log("wawawa");
-    getVocabById(0, (vocabObj) => {
-        //currentVocab = vocabObj;
-
-        console.log("curr vocab : " + JSON.stringify(vocabObj));
-    });
+const QuestionCard = () => {
+    let curr_state = store.getState();
+    //loadVocab(curr_state.lang, 0)
+    //console.log("statee = " + JSON.stringify(store.getState()));
     return (
         <div className="mt-5">
         <Card style={{ width: '50rem'}} className="mb-3 mx-auto">
             <Card.Body>
-            <Card.Title>Card Title</Card.Title>
+            <Card.Title>{curr_state.question.eng}</Card.Title>
             <Card.Subtitle className="mb-2 text-muted">Card Subtitle</Card.Subtitle>
             <Card.Text>
             Some quick example text to build on the card title and make up the bulk of
@@ -37,4 +28,6 @@ const questionCard = ({setVocabQuestion}) => {
     );
 }
 
-export default questionCard;
+
+
+export default QuestionCard;
