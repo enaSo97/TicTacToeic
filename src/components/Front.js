@@ -3,13 +3,14 @@ import { Link } from "react-router-dom";
 import {Button} from "react-bootstrap"
 import { loadVocab } from "../redux/util"
 import store from "../redux/store"
+import { pushVocabToDatabaseFromJSON } from '../database/database'
 
 
 const Front = () => {
 
     store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
     let curr_state = store.getState();
-
+    pushVocabToDatabaseFromJSON();
     return (
         <div className="mt-5">
             <h1> Welcome to TicTacToeic!</h1>
