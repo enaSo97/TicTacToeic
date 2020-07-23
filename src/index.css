@@ -34,6 +34,11 @@ code {
   line-height: 1.5;
 }
 
+.frontPage{
+  font-family: 'Roboto Slab';
+
+}
+
 
 .todo-item__text--completed{
   text-decoration: line-through;
