@@ -10,6 +10,9 @@ const Router = () =>(
         <Route path="/questionCardpage">
             <QuestionCard />
         </Route>
+        <Route path="/signInOut">
+            
+        </Route>
     </Switch>  
 )
 

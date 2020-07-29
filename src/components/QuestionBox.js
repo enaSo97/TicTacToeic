@@ -22,7 +22,7 @@ const QuestionCard = () => {
     console.log("statee = " + JSON.stringify(curr_state));
     return (
         <div className="mt-5">
-        <Card style={{ width: '50rem'}} className="mb-3 mx-auto">
+        <Card style={{ width: '50rem', borderRadius: '15px'}} className="mb-3 mx-auto">
             <Card.Body>
             <Card.Title>{curr_state.question["question"][curr_lang]}</Card.Title>
             <Card.Subtitle className="mb-2">{curr_state.question["word"]}</Card.Subtitle>

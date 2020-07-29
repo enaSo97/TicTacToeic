@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from "react-redux"
 import { toggleTodo } from "../redux/actions"
 import cx from "classnames"
-import '../index.css'
+import '../style.css'
 
 
 // cross the content when it is clicked since it is completed todo!

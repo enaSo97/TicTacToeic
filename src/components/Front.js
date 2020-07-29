@@ -3,26 +3,32 @@ import { Link } from "react-router-dom";
 import {Button, Card} from "react-bootstrap"
 import { loadVocab } from "../redux/util"
 import store from "../redux/store"
-import '../index.css'
+import '../style.css'
 
-const Front = () => {
+export const Front = () => {
 
     store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
     let curr_state = store.getState();
+    console.log("window height : " + window.innerHeight)
     //pushVocabToDatabaseFromJSON();
     return (
-        <div className="mt-5">
+        <div className="mt-5" style={{height: '100vh', width: '100vw'}}>
             <h1 className="frontPage" style={{marginLeft:'2rem'}}> Hello, there!</h1>
-            <div >
-                <Card style={{ width: '50%', height: '18rem', borderRadius:'15px', opacity: '70%'}} className="my-5 mx-auto bg-primary">
+            <div className="w-50 h-50 p-3 mx-auto my-auto">
+                <Card style={{ width: '100%', height: '100%', borderRadius:'15px', opacity: '70%' }} className="my-5 mx-auto bg-warning">
                     <Card.Body>
-                    <Card.Text  style={{ paddingTop: '6rem', fontSize: '35px 25.5vw' , color:'white', fontFamily:'Roboto Slab', fontWeight:'bold', paddingLeft: '8em'}} className='mx-auto'>Welcom To <br /> <span style={{marginLeft: "5em"}}>TicTacToeic! :)</span>  </Card.Text>
+                    <Card.Text  className="frontCardText">Welcom To TicTacToeic! :)  </Card.Text>
                     </Card.Body>
                 </Card>
+                <div style={{textAlign:"center"}}>
+                    <Link to="/questionCardpage">
+                        <Button   variant="danger" onClick={loadVocab(curr_state.lang, 0)} >Sign in</Button>
+                        <span style={{margin: '1.5%'}}></span>
+                        <Button   variant="primary" >Sign up</Button>
+                    </Link>
+                </div>
             </div>
-            <Link to="/questionCardpage">
-                <Button variant="danger" onClick={loadVocab(curr_state.lang, 0)} >Start Lesson!</Button>
-            </Link>
+            
         </div> 
     );
 }
