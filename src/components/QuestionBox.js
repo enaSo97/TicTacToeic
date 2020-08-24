@@ -34,7 +34,7 @@ const QuestionCard = () => {
                 aria-describedby="basic-addon2"
                 />
             <InputGroup.Append>
-                <Button variant="outline-secondary">Button</Button>
+                <Button variant=" outline-secondary">Button</Button>
                 </InputGroup.Append>
             </InputGroup>
             </Card.Body>

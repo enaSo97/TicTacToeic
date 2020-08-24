@@ -13,6 +13,10 @@ export const firebaseAppAuth = firebaseApp.initializeApp(config).auth();
 
 export const database = firebase.database;
 
+function firebaseAuth(email, password){
+    
+}
+
 
 
 

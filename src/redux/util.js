@@ -1,6 +1,6 @@
 import store from "./store"
 //import {vocabDB} from "../../objects"
-import { getDatabaseObj, getVocabById } from "../database/database"
+import { getDatabaseObj, getVocabById } from "../firebase/database"
 import {LANGUAGES} from "../constants.js"
 
 var questionID = 0;

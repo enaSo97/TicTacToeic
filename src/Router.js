@@ -2,6 +2,7 @@ import React from "react"
 import Front from "./components/Front"
 import  QuestionCard  from "./components/QuestionBox"
 import { BrowserRouter as Switch, Route } from "react-router-dom";
+import AccountAccess from "./components/accountPage/AccountAccess";
 const Router = () =>(
     <Switch>
         <Route exact path="/">
@@ -10,7 +11,9 @@ const Router = () =>(
         <Route path="/questionCardpage">
             <QuestionCard />
         </Route>
-        <Route path="/signInOut">
+        <Route path="/signIn">
+        </Route>
+        <Route path="/signUp">
             
         </Route>
     </Switch>  

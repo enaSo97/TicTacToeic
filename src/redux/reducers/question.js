@@ -12,6 +12,11 @@ export default function (state="", action) {
             }
             console.log("new state =  " + JSON.stringify(newState));
             return newState;
+        case "SIGN_IN":
+            newState = {
+                ...state,
+                "auth" : action.auth
+            }
         default:
             return state;
     }
