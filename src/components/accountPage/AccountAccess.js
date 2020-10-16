@@ -13,7 +13,7 @@ export const AccountAccess = (props) => {
         return props.user ? (
             jsxElement
         ) : (
-        <Link to={pageName === "signIn" ? "nothing" : "signIn"}>{jsxElement}</Link>
+        <Link to={pageName === "/signIn" ? "/dashboard" : "/signIn"}>{jsxElement}</Link>
         );
     }
     return displayCorrespondingLink(

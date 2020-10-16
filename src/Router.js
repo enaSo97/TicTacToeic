@@ -2,20 +2,18 @@ import React from "react"
 import Front from "./components/Front"
 import  QuestionCard  from "./components/QuestionBox"
 import { BrowserRouter as Switch, Route } from "react-router-dom";
-import AccountAccess from "./components/accountPage/AccountAccess";
+
+import SignIn from "./components/accountPage/SignIn";
+import SignUp from "./components/accountPage/SignUp";
 const Router = () =>(
     <Switch>
         <Route exact path="/">
             <Front />
         </Route> 
-        <Route path="/questionCardpage">
-            <QuestionCard />
-        </Route>
-        <Route path="/signIn">
-        </Route>
-        <Route path="/signUp">
+        <Route path="/questionCardpage"> <QuestionCard /> </Route>
+        <Route path="/signIn"> <SignIn /> </Route>
+        <Route path="/signUp"> <SignUp /> </Route>
             
-        </Route>
     </Switch>  
 )
 

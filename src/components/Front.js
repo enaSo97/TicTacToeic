@@ -4,20 +4,15 @@ import { AccountAccess } from "./accountPage/AccountAccess"
 import { firebaseAppAuth } from "../firebase/firebaseConfig";
 import withFirebaseAuth from "react-with-firebase-auth";
 
-import { loadVocab } from "../redux/util"
+//import { loadVocab } from "../redux/util"
 import store from "../redux/store"
 import '../style.css'
 
 class Front extends React.Component {
-    constructor(props){
-        super(props)
-    }
-
-
 
     render (){
         store.dispatch({type:"SET_LANGUAGE", lang: "kor"})
-        let curr_state = store.getState();
+        //let curr_state = store.getState();
 
         return (
             <div className="mt-5" style={{height: '100vh', width: '100vw'}}>

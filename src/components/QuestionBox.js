@@ -1,11 +1,8 @@
 import React from "react";
-import { connect } from "react-redux";
 import { Card, InputGroup, Button, FormControl } from "react-bootstrap";
 import store from "../redux/store"
 import { setLangID } from "../redux/util"
 import {LANGUAGES} from "../constants.js"
-
-var currentVocab;
 
 const QuestionCard = () => {
     let curr_state = store.getState();
