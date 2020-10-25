@@ -1,5 +1,5 @@
 import React from 'react'
-import store from '../../redux/store'
+//mport store from '../../redux/store'
 
 export function pageFrame(jsxElement){
     

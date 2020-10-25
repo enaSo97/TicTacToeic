@@ -20,12 +20,13 @@ export const AccountAccess = (props) => {
             <div>
                 <Button   
                     variant="danger" 
-                    onClick={
+                    onClick={ () => {
                         store.dispatch({
                             type: "UPDATE_MAINPAGE",
                             page: pageName
                         })
-                }>
+                    }}
+                >
                 {props.user ? "Logout" : "Signin/Signup"}
                 </Button>
             </div>

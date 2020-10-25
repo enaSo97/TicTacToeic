@@ -1,0 +1,926 @@
+{
+  "A bad spelling" : {
+    "definition" : [ {
+      "def" : "When you don’t know how to put the letters in the right order in words for instance.",
+      "language" : "eng"
+    } ],
+    "example" : [ "My primary school teacher always told me my spelling was bad." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A binder -- folder" : {
+    "definition" : [ {
+      "def" : "Refers to a cover or holder, typically made of stiff paper or card, for storing loose papers.",
+      "language" : "eng"
+    } ],
+    "example" : [ "In my company, we use plastic binder." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A board minutes" : {
+    "definition" : [ {
+      "def" : "A written record of the proceedings and actions of the board of directors of a corporation or other entity.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The decided to announce certain organizational changes and hence, decided to share the board minutes with all the employees." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A booth" : {
+    "definition" : [ {
+      "def" : "A small place where exhibitors present their product--service at a fair.",
+      "language" : "eng"
+    } ],
+    "example" : [ "We are lucky to have a large booth at the job fair." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A brief--to brief" : {
+    "definition" : [ {
+      "def" : "A summary talk--to msummarize.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The assistant was asked to brief the meeting." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A briefcase" : {
+    "definition" : [ {
+      "def" : "A flat rectangular bag, used especially for carrying business documents.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Roy carries a leather briefcase to work every day." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A budget cut" : {
+    "definition" : [ {
+      "def" : "A reduction of budget.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Due to the merger, we’ll go through budget cuts in all the departments." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A bulletin board" : {
+    "definition" : [ {
+      "def" : "Refers to a board on a wall on which notices can be put.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please have a look at the bulletin board to see if your name is there in the list of employees coming in late and try to be on time tomorrow." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A calculator" : {
+    "definition" : [ {
+      "def" : "A small electronic device that is used for doing mathematical calculations like addition, subtraction, multiplication etc.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Students are allowed to use calculators during the test." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A chart -- a graph" : {
+    "definition" : [ {
+      "def" : "A pictorial drawing that represents  information in a simple way often using lines and curves to depict numbers -- figures -- amounts.",
+      "language" : "eng"
+    } ],
+    "example" : [ "He prepared a graph to show the explain the reason for decrease in sales during the last one month." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A colored (US) pencil --  a coloured (GB) pencil" : {
+    "definition" : [ {
+      "def" : "Also referred to as a colored drawing tool.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Children love using colored pencils to draw." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A convenient time" : {
+    "definition" : [ {
+      "def" : "A time which suits you well, which is practical.",
+      "language" : "eng"
+    } ],
+    "example" : [ "For the meeting, let’s set a convenient time!" ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A copier -- a copy machine" : {
+    "definition" : [ {
+      "def" : "A machine that makes exact copies of something, especially documents.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The copier in my office is broken again." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A correction fluid" : {
+    "definition" : [ {
+      "def" : "Liquid which helps to erase pen impressions from a paper.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Many schools don’t let students to use correction fluid during exams." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A coworker" : {
+    "definition" : [ {
+      "def" : "Someone who works with you.",
+      "language" : "eng"
+    } ],
+    "example" : [ "He is very lucky as his coworkers are really nice." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A customer" : {
+    "definition" : [ {
+      "def" : "A person who buys goods or a service.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Mrs Wilson is one of our regular customers." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A customer file" : {
+    "definition" : [ {
+      "def" : "Electronic resource, often a particular file or folder, that contains specific information about a customer and his--her purchasing history.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Give all the customer files because I want to analyze our target group." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A deadline" : {
+    "definition" : [ {
+      "def" : "A time or day by which a task or an assignment must be completed.",
+      "language" : "eng"
+    } ],
+    "example" : [ "We’re working to a tight deadline." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A department -- a division (US)" : {
+    "definition" : [ {
+      "def" : "Refers to a particular section in a company or organization that is responsible for a specific area of activity.",
+      "language" : "eng"
+    } ],
+    "example" : [ "He was part of the retail division for nearly three years." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A draft" : {
+    "definition" : [ {
+      "def" : "A box-like storage compartment without a lid, made to slide horizontally in and out of a desk, or other piece of furniture.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please put the papers into the drawer of the manager’s desk." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A drawer" : {
+    "definition" : [ {
+      "def" : "A box-shaped container, without a top, that is part of a piece of furniture. It slides in and out to open and close and is used for keeping things in.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I keep my socks in the bottom drawer." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A fan" : {
+    "definition" : [ {
+      "def" : "A machine with rotating blades that creates a current of air for cooling or ventilation.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please switch on the fan as it is getting hold." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A fax machine" : {
+    "definition" : [ {
+      "def" : "An exact copy of a document made by electronic scanning and transmitted as data by telecommunications links.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I’ll send you a fax with the details of the proposal." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A felt pen -- a felt-tip pen -- a felt tip" : {
+    "definition" : [ {
+      "def" : "A pen with a thicker end usually used to mimick the computerized bold letters.",
+      "language" : "eng"
+    } ],
+    "example" : [ "To make sure my poster will be seen from far, I used a felt-tip pen." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A file -- to file" : {
+    "definition" : [ {
+      "def" : "Refers to a folder or box for holding loose papers together and in order for easy reference.",
+      "language" : "eng"
+    } ],
+    "example" : [ "You’ll find the papers you’re looking for  in the files under “c”." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A file box" : {
+    "definition" : [ {
+      "def" : "A folder, box used to keep documents or other items in order.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Get some file boxes and spend one day in a month sorting all papers and documents." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A fixed income" : {
+    "definition" : [ {
+      "def" : "A salary which is the same every month.",
+      "language" : "eng"
+    } ],
+    "example" : [ "With her open ended contract, she will earn a fixed income." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A form" : {
+    "definition" : [ {
+      "def" : "Refers to a document with blank spaces in which answers to questions can be filled or recorded in an organized way.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please fill in--out the form with black ink." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A general ledger" : {
+    "definition" : [ {
+      "def" : "Contains all accounts for recording transactions relating to a company’s assets, liabilities, owners’ equity, revenue, and expenses.",
+      "language" : "eng"
+    } ],
+    "example" : [ "She was responsible for operating expenses and had access to the company’s general ledger." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A glue stick" : {
+    "definition" : [ {
+      "def" : "Solid adhesives in twist or push-up tubes.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I used a glue stick to paste my collage together." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A hard copy" : {
+    "definition" : [ {
+      "def" : "A printed copy.",
+      "language" : "eng"
+    } ],
+    "example" : [ "In case my computer freezes, I printed out a hard copy." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A highlighter" : {
+    "definition" : [ {
+      "def" : "A special pen containing bright ink, used to mark words in a book, magazine…",
+      "language" : "eng"
+    } ],
+    "example" : [ "Using a highlighter is the best way to memorize history from books." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A landmark" : {
+    "definition" : [ {
+      "def" : "A precise point to situate where you are.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please remember this column as it’ll be our landmark throughout the visit." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A lobby" : {
+    "definition" : [ {
+      "def" : "A hall--entrance.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Let’s meet in the lobby!" ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A lunch -- coffee break" : {
+    "definition" : [ {
+      "def" : "Lunch break is referred to the period in the middle of the day when people stop work to have lunch while a coffee break is simply a short break during the working day, during which people typically drink a cup of coffee or tea.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I’m sorry, Joanna isn’t here at the moment, she’s on her lunch break." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A memorandum -- a memo" : {
+    "definition" : [ {
+      "def" : "A short written report prepared specially for a person or a group of people, that contains information about a particular matter.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Michael Davis has prepared a memorandum outlining our need for an additional warehouse." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A minutes of a meeting" : {
+    "definition" : [ {
+      "def" : "Refers to the written record of what was said at a meeting.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Harry will take the minutes of the meeting." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A notebook" : {
+    "definition" : [ {
+      "def" : "A book of blank sheets (without anything written on it) or plain paper or ruled pages, for writing on.",
+      "language" : "eng"
+    } ],
+    "example" : [ "She was jotting things down in a little notebook." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A notepad" : {
+    "definition" : [ {
+      "def" : "A pad of blank or ruled pages for writing notes on.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I always carry a notepad while attending meetings so that I can quickly pen down important points discussed." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A pair of scissors" : {
+    "definition" : [ {
+      "def" : "A device used for cutting cloth, paper, and other material, consisting of two blades laid one on top of the other and fastened in the middle so as to allow them to be opened and closed by a thumb and finger inserted through rings on the end of their handles.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Be sure to include a good sharp pair of scissors in your stationery kit." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A paper clip" : {
+    "definition" : [ {
+      "def" : "A small piece of bent wire used for holding pieces of paper together.",
+      "language" : "eng"
+    } ],
+    "example" : [ "You can use a paper clip to hold the pages together." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A parcel" : {
+    "definition" : [ {
+      "def" : "An object or collection of objects wrapped in paper, in order to be carried or sent by post.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The parcel was to be delivered by today noon but unfortunately, didn’t arrive on time." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A pen" : {
+    "definition" : [ {
+      "def" : "A long, thin object used for writing or drawing with ink.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Don’t write with a pen or else you won’t be able to erase out any mistakes you make." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A pencil" : {
+    "definition" : [ {
+      "def" : "A long, thin object, usually made of wood, for writing or drawing.",
+      "language" : "eng"
+    } ],
+    "example" : [ "He sat with his pencil poised, ready to take notes." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A protractor" : {
+    "definition" : [ {
+      "def" : "A device used for measuring and drawing angles.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Protractor is the first tool that students of architecture learn to use while beginning to draw." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A quotation -- a quote" : {
+    "definition" : [ {
+      "def" : "An estimate of what you would pay for a specific service or material.",
+      "language" : "eng"
+    } ],
+    "example" : [ "To find out how much we would pay to buy a new copier, we asked for a quotation." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A recording" : {
+    "definition" : [ {
+      "def" : "An audio file with information.",
+      "language" : "eng"
+    } ],
+    "example" : [ "There was a recording of the conference on my phone." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A refund" : {
+    "definition" : [ {
+      "def" : "A reimbursement.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Unsatisfied clients ask for a refund." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A registered letter with acknowledgement of receipt" : {
+    "definition" : [ {
+      "def" : "Refers to the acknowledgment of receipt card that is signed by the addressee himself upon reception of the item which is later returned back to the sender.",
+      "language" : "eng"
+    } ],
+    "example" : [ "It is best to go for a registered letter with an acknowledgement of receipt option while sending important documents by post." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A set square" : {
+    "definition" : [ {
+      "def" : "A right-angled triangular plate for drawing lines, especially at 90°, 45°, 60°, or 30°.",
+      "language" : "eng"
+    } ],
+    "example" : [ "He was unable to answer the question in his maths paper as he had forgotten to get his set square with him." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A sheet protector" : {
+    "definition" : [ {
+      "def" : "Refers to a flat, slitted plastic bag with a perforated edge used to hold paper documents.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Always carry a sheet protector to hold important documents to prevent the pages from getting crumpled." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A shelf" : {
+    "definition" : [ {
+      "def" : "A long, flat board fixed horizontally, usually against a wall or inside a cupboard so that objects can be stored on it.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Their office had a lot of cupboards yet they didn’t have any shelf empty to keep the files." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A spot" : {
+    "definition" : [ {
+      "def" : "A place.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Have you seen the spot your assistant told you about?" ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A stamp" : {
+    "definition" : [ {
+      "def" : "A small piece of paper with a picture or pattern on it that is stuck onto a letter or package before it is posted, to show that the cost of sending it has been paid.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I stuck a 50 cent stamp on the envelope." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A stamped envelope" : {
+    "definition" : [ {
+      "def" : "An envelope that you send to someone with your name and address and a stamp on it, so that they can send you something enclosed in it.",
+      "language" : "eng"
+    } ],
+    "example" : [ "To receive a poster, send a self-addressed stamped envelope to the above address." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A staple" : {
+    "definition" : [ {
+      "def" : "A piece of thin wire with two short right-angled end pieces which are driven by a stapler through sheets of paper to fasten them together.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Could you please get me some staples from the stationary shop as they are over." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A stapler" : {
+    "definition" : [ {
+      "def" : "A device for fastening together sheets of paper with a staple or staples.",
+      "language" : "eng"
+    } ],
+    "example" : [ "You’ll find staplers and paper clips next to the photocopier." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A statement" : {
+    "definition" : [ {
+      "def" : "Refers to something that someone says or writes officially, or an action taken to express an opinion.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The chairman is expected to issue a statement about the release of the new product to the press." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A storage room" : {
+    "definition" : [ {
+      "def" : "Place to store anything and everything such as old files, folders, food commodities etc.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The company had some issues with space and hence, they decided to use the storage room to work." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A supply closet" : {
+    "definition" : [ {
+      "def" : "A cupboard with items.",
+      "language" : "eng"
+    } ],
+    "example" : [ "To find a new notebook I’ll have a look at the supply closet." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A tack" : {
+    "definition" : [ {
+      "def" : "A small, sharp nail with a flat end.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Brian fixed the poster to the noticeboard with tacks." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A toll-free call" : {
+    "definition" : [ {
+      "def" : "Referred to a call to a toll-free number from a landline that is free of charge.",
+      "language" : "eng"
+    } ],
+    "example" : [ "I need to make a toll-free call to the head office in Delhi." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A trial offer" : {
+    "definition" : [ {
+      "def" : "A proposition to try something.",
+      "language" : "eng"
+    } ],
+    "example" : [ "It is a common business practice to send trial offer coupons for new products." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A typing mistake" : {
+    "definition" : [ {
+      "def" : "An error made by writing on a keyboard.",
+      "language" : "eng"
+    } ],
+    "example" : [ "There are many softwares to correct typing mistakes nowadays." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A warehouse" : {
+    "definition" : [ {
+      "def" : "A building to store goods.",
+      "language" : "eng"
+    } ],
+    "example" : [ "All the raw materials are in the warehouse." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A wastebasket" : {
+    "definition" : [ {
+      "def" : "An open container that is kept in one corner of a floor inside buildings and is used for putting or throwing rubbish all paper.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Irene tore a piece of paper and threw it into the wastebasket." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A workload" : {
+    "definition" : [ {
+      "def" : "The amount of work.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The workload is heavy in start-ups." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "Agenda -- on the agenda" : {
+    "definition" : [ {
+      "def" : "A list of matters to be discussed at a meeting.",
+      "language" : "eng"
+    } ],
+    "example" : [ "There were several important items on the agenda." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An appropriate box" : {
+    "definition" : [ {
+      "def" : "The precise place to use.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please tick the appropriate box and fill in the form." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An assignment -- a task" : {
+    "definition" : [ {
+      "def" : "Referred to as a piece of work to be completed within a time frame.",
+      "language" : "eng"
+    } ],
+    "example" : [ "We usually ask interviewees to perform a few simple tasks on the computer just to test their aptitude." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An attachment" : {
+    "definition" : [ {
+      "def" : "A joined document",
+      "language" : "eng"
+    } ],
+    "example" : [ "Please find enclosed the schedule in attachment" ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An eraser (US)  --  a rubber (GB)" : {
+    "definition" : [ {
+      "def" : "A small piece of substance used to remove the marks made by a pencil.",
+      "language" : "eng"
+    } ],
+    "example" : [ "If you draw or write in pencil you can always rub out your mistakes with an eraser." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An event" : {
+    "definition" : [ {
+      "def" : "Something planned",
+      "language" : "eng"
+    } ],
+    "example" : [ "Some vents are planned to celebrate the anniversary." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "An invoice -- a bill" : {
+    "definition" : [ {
+      "def" : "A list of things provided or work done together with their cost, for payment at a later time.",
+      "language" : "eng"
+    } ],
+    "example" : [ "Invoices must be submitted by the 24th of every month." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "Assets and liabilities" : {
+    "definition" : [ {
+      "def" : "Assets refer to resources with economic value that are owned by an individual or entity, with the expectation that these will generate future benefit while liabilities are legal obligation that binds an individual or entity to transfer economic benefits including money, goods or services to another individual or entity over time.",
+      "language" : "eng"
+    } ],
+    "example" : [ "The business has assets and liabilities of 2 million euros." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "At someone’s discretion" : {
+    "definition" : [ {
+      "def" : "It’s the",
+      "language" : "eng"
+    } ],
+    "example" : [ "n--a" ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  },
+  "A  pencil case -- box" : {
+    "definition" : [ {
+      "def" : "A small box or a pouch for holding pens, pencils, etc.",
+      "language" : "eng"
+    } ],
+    "example" : [ "All kids had new pencil cases and new pens." ],
+    "questionList" : [ {
+      "eng" : "What is the meaning of the following vocabulary?",
+      "kor" : "다음 단어의 뜻은 무었입니까?",
+      "type" : "short"
+    } ]
+  }
+}
